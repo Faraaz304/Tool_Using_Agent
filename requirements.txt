@@ -1,0 +1,8 @@
+# This file lists the Python packages required for the project.
+langchain
+langchain-community
+pandas
+matplotlib
+sqlite3
+textstat
+ollama
